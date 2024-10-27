@@ -1,0 +1,34 @@
+body {
+    background-color: white;
+    font-family: georgia;
+    background-image: url(background.png);
+    background-repeat: repeat-x;
+}
+h1 {color:darkblue;
+    font-size: 60px;
+    font-family: 'Comic Sans Ms';
+    text-align: center;   
+}
+
+h4 {
+    text-align: center;
+}
+h3 {
+    text-align: center;
+}
+p{
+    text-align: center;
+}
+#apa{
+    color: orange;
+}
+#ya{
+    text-align: right;
+}
+#ok{
+    color: red;
+}
+#oh{
+    text-decoration: none;
+    font-weight: bold;
+}
