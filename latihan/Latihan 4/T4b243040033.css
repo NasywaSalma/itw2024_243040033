@@ -97,7 +97,7 @@ body {
 }
 
 .content h2 {
-    font-size: 20px;
+    font-size: 28px;
     font-weight: bold;
 }
 
@@ -140,6 +140,7 @@ body {
 
 .style {
     text-decoration: none;
+    color: darkblue;
 }
 
 .style:hover {
