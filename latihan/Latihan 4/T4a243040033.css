@@ -53,7 +53,8 @@ body {
 .container{
     width: 800px;
     margin: auto;
-    background-color: white;
+    background-color: white
+    ;
 }
 .header{
     padding: 20px;
